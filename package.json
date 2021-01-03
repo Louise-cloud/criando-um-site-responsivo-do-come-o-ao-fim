@@ -1,0 +1,22 @@
+{
+  "name": "cat-night-scan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louise-cloud/criando-um-site-responsivo-do-come-o-ao-fim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louise-cloud/criando-um-site-responsivo-do-come-o-ao-fim/issues"
+  },
+  "homepage": "https://github.com/Louise-cloud/criando-um-site-responsivo-do-come-o-ao-fim#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
